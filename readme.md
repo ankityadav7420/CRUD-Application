@@ -1,3 +1,4 @@
+![Screenshot 2023-07-27 at 2 42 37 PM](https://github.com/ankityadav7420/CRUD-Application/assets/54978121/4d2694fe-ebf1-4279-8951-dc17c6b71a3b)
 # Steps to Test :
 1. Run npm install in both apps (server and frontend)
 2. Run both frontend: npm start and  server: npm run dev
